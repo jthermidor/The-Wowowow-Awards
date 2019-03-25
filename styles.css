@@ -1,0 +1,36 @@
+.bestMovie {
+    color:red;
+}
+.bestArtist {
+    color:blue;
+}
+.bestArtist  {
+    text-align:center;
+} 
+.img {
+    text-align:center;
+}
+.bestMovie {
+    text-align:center;
+}
+.header {
+    text-align:center;
+}
+.bestGame {
+    text-align:center;
+}
+.bestGame {
+    color:purple;
+}
+.bestClass {
+    text-align:center;
+}
+body {
+    background-image: url("https://www.machinedesign.com/sites/machinedesign.com/files/styles/article_featured_standard/public/awards-126498393-promo.jpg?itok=ThZt2Kj0");
+}
+.bestClass {
+    color:green;
+}
+title {
+    color:white;
+}
